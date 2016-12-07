@@ -1,0 +1,17 @@
+{
+  "name": "riot-ts-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "riot": "^3.0.2",
+    "tag-loader": "^0.3.0",
+    "ts-loader": "^1.3.0",
+    "webpack": "^1.14.0"
+  }
+}
